@@ -10,12 +10,11 @@ Este projeto explora a estilística do Álbum as Quatro Estações da Banda. Ele
 
 - `index.html`: Página principal do site.
 - `css/`: Arquivos de estilo.
-- `js/`: Scripts JavaScript.
-- `images/`: Imagens usadas no site.
+- `imag/`: Imagens usadas no site.
 
 ## Como Visualizar
 
-O site pode ser visualizado diretamente via GitHub Pages: [link para o site].
+O site pode ser visualizado no seguinte URL: https://main.dfinprkm0k3lt.amplifyapp.com
 
 ## Licença
 
