@@ -106,7 +106,7 @@
 
     .opções__link {
         text-decoration: none;
-        color: var(--preto);
+        color: var(--fonte-legiao);
     }
 
     .container__imagem-transparente {
@@ -151,7 +151,7 @@
         display: flex;
         align-items: center;
         text-decoration: none;
-        color: var(--preto);
+        color: var(--fonte-legiao);
     }
 
     .cabeçalho {

@@ -48,6 +48,7 @@
 .descrição__titulo {
     color: var(--laranja);
     font-weight: 700;
+    text-align: center;
 }
 
 .descrição__titulo-livro {
@@ -55,10 +56,12 @@
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
+    text-align: left;
 }
 
 .descrição__texto {
     font-size: 14px;
+    text-align: justify;
 }
 
 .botões__item {
