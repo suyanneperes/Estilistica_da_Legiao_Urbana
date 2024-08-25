@@ -4,7 +4,7 @@ Este repositório contém os arquivos necessários para hospedar o site relacion
 
 ## Descrição
 
-Este projeto explora [A estilística do álbum as]. Ele foi apresentado durante [Nome do Evento] e tem como objetivo [objetivo principal do trabalho].
+Este projeto explora a estilística do Álbum as Quatro Estações da Banda. Ele será apresentado durante a 1ª Feira de Linguagem e Cultura e tem como objetivo expor os traços estilíticos contidos no álbum.
 
 ## Estrutura do Repositório
 
